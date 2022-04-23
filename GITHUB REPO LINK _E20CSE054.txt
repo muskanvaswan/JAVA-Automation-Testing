@@ -1,3 +1,3 @@
 GITHUB REPO LINK
 
-https://github.com/batrarnav/JAVA-Automation-Testing.git
+https://github.com/muskanvaswan/JAVA-Automation-Testing
